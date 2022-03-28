@@ -1,6 +1,6 @@
 # Capacitor Plugin for Node.js
 
-This plugin is in early planning stages, but will be the home of community [Capacitor](https://capacitorjs.com/) plugin to bridge Capacitor apps with Node.js libraries.
+This plugin is in early planning stages, but will be the home of a community [Capacitor](https://capacitorjs.com/) plugin to bridge Capacitor apps with Node.js libraries.
 
 ## Early Research
 
